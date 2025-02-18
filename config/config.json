@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "myuser",
+        "password": "mypassword",
+        "dbname": "minimoodle"
+    },
+    "server": {
+        "port": 8080
+    }
+} 
